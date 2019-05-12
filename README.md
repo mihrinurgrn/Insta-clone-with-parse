@@ -13,3 +13,7 @@ https://parse-dashboard.back4app.com
 ## Dependency
 * ParseVersion 1.17.3
 
+## Installation
+If you want to try and see my instaclone app you should clone on your local machine and import it in Android Studio. Thats enough.  
+
+
